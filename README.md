@@ -33,3 +33,5 @@ Overall, this program demonstrates a simple and effective approach to building a
 
 Output 
 
+
+<img width="647" height="786" alt="Image" src="https://github.com/user-attachments/assets/09fda190-7a81-493b-bdc1-4a33afbaf0c7" />
